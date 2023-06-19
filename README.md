@@ -9,14 +9,14 @@ The project is organized as follows:
 
 - data: This folder contains the dataset used for training and testing the model.
 - notebooks: This folder contains Jupyter notebooks used for data preprocessing, exploratory data analysis, feature engineering, model development, and evaluation.
-- models: This folder stores trained machine learning models for loan approval prediction.
+- models: This folder stores trained machine-learning models for loan approval prediction.
 - requirements.txt: This file lists the required Python libraries and their versions.
 - README.md: This file provides an overview of the project and its current progress.
 
 # Usage
 To run the project locally, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/loan-approval-prediction.git
+- Clone the repository: git clone https://github.com/NakulSAnandT/loan-approval-prediction.git
 - Navigate to the project directory: cd loan-approval-prediction
 - Install the required dependencies: pip install -r requirements.txt
 - Run the Streamlit app: streamlit run app.py
